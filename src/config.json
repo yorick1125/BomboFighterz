@@ -1,0 +1,225 @@
+{
+	"images": [
+		{
+			"name": "background",
+			"path": "./assets/images/background.png",
+			"width": 500,
+			"height": 229
+		},
+		{
+			"name": "pause",
+			"path": "./assets/images/Pause.png",
+			"width": 500,
+			"height": 229
+		},
+		{
+			"name": "wayneWins",
+			"path": "./assets/images/winScreens/WayneWins.png",
+			"width": 500,
+			"height": 229
+		},
+		{
+			"name": "uziWins",
+			"path": "./assets/images/winScreens/UziWins.png",
+			"width": 500,
+			"height": 229
+		},
+		{
+			"name": "drakeWins",
+			"path": "./assets/images/winScreens/DrakeWins.png",
+			"width": 500,
+			"height": 229
+		},
+		{
+			"name": "drake_face",
+			"path": "./assets/images/drake/face.jpg",
+			"width": 576,
+			"height": 288
+		},
+		{
+			"name": "drake_full",
+			"path": "./assets/images/drake/full.jpg",
+			"width": 576,
+			"height": 384
+		},
+		{
+			"name": "drake_walk",
+			"path": "./assets/images/drake/walking.jpg",
+			"width": 576,
+			"height": 384
+		},
+		{
+			"name": "uzi_face",
+			"path": "./assets/images/uzi/face.jpg",
+			"width": 576,
+			"height": 288
+		},
+		{
+			"name": "uzi_full",
+			"path": "./assets/images/uzi/full.jpg",
+			"width": 576,
+			"height": 384
+		},
+		{
+			"name": "uzi_walk",
+			"path": "./assets/images/uzi/walking.jpg",
+			"width": 576,
+			"height": 384
+		},
+		{
+			"name": "wayne_face",
+			"path": "./assets/images/wayne/face.jpg",
+			"width": 576,
+			"height": 288
+		},
+		{
+			"name": "wayne_full",
+			"path": "./assets/images/wayne/full.jpg",
+			"width": 576,
+			"height": 384
+		},
+		{
+			"name": "wayne_walk",
+			"path": "./assets/images/wayne/walking.jpg",
+			"width": 576,
+			"height": 384
+		},
+		{
+			"name": "arrows",
+			"path": "./assets/images/arrows.png",
+			"width": 576,
+			"height": 384
+		},
+		{
+			"name": "attack_potion",
+			"path": "./assets/images/potions/attack_potion.png",
+			"width": 32,
+			"height": 32
+		},
+		{
+			"name": "defense_potion",
+			"path": "./assets/images/potions/defense_potion.png",
+			"width": 32,
+			"height": 32
+		},
+		{
+			"name": "speed_potion",
+			"path": "./assets/images/potions/speed_potion.png",
+			"width": 32,
+			"height": 32
+		},
+		{
+			"name": "health_potion",
+			"path": "./assets/images/potions/health_potion.png",
+			"width": 32,
+			"height": 32
+		},
+		{
+			"name": "fireballs",
+			"path": "./assets/images/fireballs.png",
+			"width": 64,
+			"height": 96
+		}
+
+	],
+	"fonts": [
+		{
+			"name": "Joystix",
+			"path": "./assets/fonts/Joystix.ttf"
+		},
+		{
+			"name": "SSF4",
+			"path": "./assets/fonts/ssf4.ttf"
+		},
+		{
+			"name": "Yoster",
+			"path": "./assets/fonts/yoster.ttf"
+		},
+		{
+			"name": "Zig",
+			"path": "./assets/fonts/zig.ttf"
+		},
+		{
+			"name": "Chrusty",
+			"path": "./assets/fonts/chrusty.ttf"
+		}
+	],
+	"sounds": [
+		{
+			"name": "dior",
+			"path": "./assets/sounds/dior.wav",
+			"size": 1,
+			"volume": 0.1
+		},
+		{
+			"name": "getbusy",
+			"path": "./assets/sounds/getbusy.wav",
+			"size": 1,
+			"volume": 0.1
+		},
+		{
+			"name": "milli",
+			"path": "./assets/sounds/milli.wav",
+			"size": 1,
+			"volume": 0.1,
+			"loop": true
+		},
+		{
+			"name": "xo",
+			"path": "./assets/sounds/xo.wav",
+			"size": 1,
+			"volume": 0.1,
+			"loop": true
+		},
+		{
+			"name": "started",
+			"path": "./assets/sounds/started.wav",
+			"size": 1,
+			"volume": 0.1,
+			"loop": true
+		},
+		{
+			"name": "pause",
+			"path": "./assets/sounds/pause.mp3",
+			"size": 1,
+			"volume": 1.0
+		},
+		{
+			"name": "lessgo",
+			"path": "./assets/sounds/lessgo.wav",
+			"size": 1,
+			"volume": 0.1
+		},
+		{
+			"name": "yeah",
+			"path": "./assets/sounds/Drake-yeye.wav",
+			"size": 1,
+			"volume": 0.5
+		},
+		{
+			"name": "yessir",
+			"path": "./assets/sounds/Wayne-yessir.wav",
+			"size": 1,
+			"volume": 0.5
+		},
+		{
+			"name": "reee",
+			"path": "./assets/sounds/Uzi-reee.wav",
+			"size": 1,
+			"volume": 0.75
+		},
+		{
+			"name": "punch",
+			"path": "./assets/sounds/punch.wav",
+			"size": 1,
+			"volume": 0.1
+		},
+		{
+			"name": "invincible",
+			"path": "./assets/sounds/Invincible.wav",
+			"size": 1,
+			"volume": 0.1,
+			"loop": true
+		}
+	]
+}
